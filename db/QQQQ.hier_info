@@ -1,0 +1,45 @@
+|QQQQ
+TY <= MP32X:inst.Y[0]
+
+
+|QQQQ|MP32X:inst
+X0[0] => Mux0.IN0
+X1[0] => Mux0.IN1
+X2[0] => Mux0.IN2
+X3[0] => Mux0.IN3
+X4[0] => Mux0.IN4
+X5[0] => Mux0.IN5
+X6[0] => Mux0.IN6
+X7[0] => Mux0.IN7
+X8[0] => Mux0.IN8
+X9[0] => Mux0.IN9
+X10[0] => Mux0.IN10
+X11[0] => Mux0.IN11
+X12[0] => Mux0.IN12
+X13[0] => Mux0.IN13
+X14[0] => Mux0.IN14
+X15[0] => Mux0.IN15
+X16[0] => Mux0.IN16
+X17[0] => Mux0.IN17
+X18[0] => Mux0.IN18
+X19[0] => Mux0.IN19
+X20[0] => Mux0.IN20
+X21[0] => Mux0.IN21
+X22[0] => Mux0.IN22
+X23[0] => Mux0.IN23
+X24[0] => Mux0.IN24
+X25[0] => Mux0.IN25
+X26[0] => Mux0.IN26
+X27[0] => Mux0.IN27
+X28[0] => Mux0.IN28
+X29[0] => Mux0.IN29
+X30[0] => Mux0.IN30
+X31[0] => Mux0.IN31
+S0 => Mux0.IN32
+S1 => Mux0.IN33
+S2 => Mux0.IN34
+S3 => Mux0.IN35
+S4 => Mux0.IN36
+Y[0] <= Mux0.DB_MAX_OUTPUT_PORT_TYPE
+
+
